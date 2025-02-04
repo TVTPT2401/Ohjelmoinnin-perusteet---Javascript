@@ -20,3 +20,29 @@ function removeDuplicates(list){
 function capitalOfCountry(text){
 
 }
+
+// Kirjoita funktio, mikä simuloi nopan heiton. Funktio siis valitsee satunnaisen numeron 1-6 ja tulostaa konsoliin,
+// mikä tulos tuli.
+// Esimerkkituloste:
+// "Heitit 5!"
+// Vinkki: googlaa javascript random
+function diceSimulator(){
+
+}
+
+// Kirjoita funktio, mikä muuttaa suomalaisen päivänmäärän (1.2.2025) kansainväliseen muotoon (2025-2-1) ja palauttaa sen
+function changeDateFormat(input){
+
+}
+
+// Kirjoita funktio, mikä laskee kahden numeron suurimman yhteisen tekijän. 
+// Eli mikä on suurin luku jolla molemmat luvut voidaan ja sadaan tulokseksi kokonaisluku.
+function greatestCommonDivisor(x, y) {
+        
+}
+
+// Kirjoita funktio, mikä palauttaa listan, jossa on kaikki mahdolliset permutaatiot annetulle merkkijonolle.
+// Permutaatiolla tarkoitetaan tapaa, jolla kirjaimet voidaan eri järjestykseen.
+function stringPermutations(text){
+
+}
