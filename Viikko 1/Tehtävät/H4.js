@@ -40,9 +40,3 @@ function changeDateFormat(input){
 function greatestCommonDivisor(x, y) {
         
 }
-
-// Kirjoita funktio, mikä palauttaa listan, jossa on kaikki mahdolliset permutaatiot annetulle merkkijonolle.
-// Permutaatiolla tarkoitetaan tapaa, jolla kirjaimet voidaan eri järjestykseen.
-function stringPermutations(text){
-
-}
